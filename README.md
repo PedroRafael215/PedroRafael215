@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @PedroRafael215
 - 👀 I’m interested in Internship in software development
+- 🌱 I already know a little C ++ and Java
 - 🌱 I’m currently learning Web Development (HTML5, CSS, PHP, JavaScript.. etc)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Majoring in Information and Communication Technology, like learning new things, and teamwork.
 - 📫 How to reach me 
 
 <!---
