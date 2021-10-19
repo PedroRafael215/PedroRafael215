@@ -2,8 +2,7 @@
 - 👀 I’m interested in Internship in software development
 - 🌱 I already know a little C ++ and Java
 - 🌱 I’m currently learning Web Development (HTML5, CSS, PHP, JavaScript.. etc)
-- 🌱 Majoring in Information and Communication Technology, like learning new things, and teamwork.
-- 📫 How to reach me 
+- 🌱 Majoring in Information and Communication Technology, like learning new things, and teamwork. 
 
 <!---
 PedroRafael215/PedroRafael215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
