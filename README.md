@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PedroRafael215
-- 👀 I’m interested in Internship in software development.
-- 🌱 I’m currently learning FullStack Web Development (HTML5, CSS, JavaScript, React, React Native, Node, and SQL).
-- 🌱 Majoring in Information and Communication Technology at FAETERJ PETRÓPOLIS. 
+-  Hi, I’m Pedro ˆ-ˆ
+-  I’m currently learning FullStack Web Development (HTML5, CSS, JavaScript, React, React Native, Node, and SQL).
+-  Majoring in Information and Communication Technology at FAETERJ PETRÓPOLIS. 
+-  I’m interested in Internship in software development.
 
 <!---
 PedroRafael215/PedroRafael215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
