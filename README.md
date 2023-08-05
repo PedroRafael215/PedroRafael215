@@ -1,5 +1,6 @@
 -  Hi, I’m Pedro ˆ-ˆ
--  Majoring in Information and Communication Technology at FAETERJ PETRÓPOLIS. 
+-  Learning C# :D
+-  Majoring in Information and Communication Technology at FAETERJ PETRÓPOLIS. (Ends in 2025)
 -  I’m interested in Internship in software development.
 
 <!---
