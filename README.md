@@ -1,5 +1,5 @@
 -  Hi, I’m Pedro ˆ-ˆ
--  Learning C# :D
+-  Learning FullStack Web Devepeloment :D
 -  Majoring in Information and Communication Technology at FAETERJ PETRÓPOLIS. (Ends in 2025)
 -  I’m interested in Internship in software development.
 
