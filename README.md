@@ -1,7 +1,6 @@
 -  Hi, I’m Pedro ˆ-ˆ
 -  Learning Android Mobile Devepeloment :D
--  Majoring in Information and Communication Technology at FAETERJ PETRÓPOLIS. (Ends in 2025)
--  
+
 
 <!---
 PedroRafael215/PedroRafael215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
